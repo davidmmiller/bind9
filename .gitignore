@@ -1,3 +1,6 @@
+# initial repo copy - then ignore .gitignore
+.gitignore
+
 # Object files
 *.o
 
@@ -17,4 +20,6 @@
 *.app
 
 # Local files
+*.swp
 *.orig
+Makefile
