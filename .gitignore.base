@@ -23,3 +23,10 @@
 *.swp
 *.orig
 Makefile
+my.configure
+
+# created by configure
+config.h
+config.log
+config.status
+
